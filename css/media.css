@@ -1,0 +1,352 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+   /*HEADER START*/
+    .b_text {
+    margin-top: 18px;
+}
+.b_text h1 {
+    font-size: 25px;
+    margin-right: 10px;
+}
+.b_text p {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-right: 88px;
+    margin-bottom: 15px;
+}
+.b_text button {
+    width: 165px;
+    height: 40px;
+}
+   /*HEADER END*/
+   /*BANNER START*/
+    .a_text p {
+    margin-bottom: 25px;
+    margin-right: 0;
+}
+   /*BANNER END*/
+   /*ABOUT US START*/
+   .a_single{
+    margin-bottom: 12px;
+   }
+   .a_text h1{
+    font-size: 35px;
+   }
+    .a_single h4 {
+      left: 40px;
+}
+   /*ABOUT US END*/
+   /*LIMIT START*/
+   .limit {
+    margin-top: 60px;
+}
+   .l_text h1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 31px;
+    text-align: center;
+    line-height: normal !important;
+}
+.p-1 {
+   text-align: center;
+   margin-right: 0;
+}
+.p-2 {
+    margin-right: 0;
+    text-align: center;
+}
+.l_text ul li {
+    font-size: 28px;
+    padding-right: 0;
+    text-align: center;
+     margin: 0 8px !important;
+}
+
+ /*LIMIT END*/
+ /*SERVICE START*/
+ .s_single {
+   text-align: center;
+}
+.s_h1 {
+    font-size: 33px;
+    margin-bottom: 50px;
+}
+ /*SERVICE END*/
+ /*FOOTER START*/
+ .f_1 {
+    text-align: center;
+}
+.f_p {
+    margin-right: 0;
+    text-align: center;
+}
+.f_2 {
+    text-align: center;
+}
+.f_3 {
+    text-align: center;
+}
+.f_4 {
+    text-align: center;
+}
+.f_4 p {
+    margin-right: 0;
+    
+}
+ /*FOOTER END*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   /*HEADER START*/
+     .b {
+    text-align: right;
+}
+      .menu ul li a{
+        text-align: right;
+      }
+      .b {
+    text-align: right;
+    margin-top: 10px;
+}
+   /*HEADER END*/
+   /*BANNER START*/
+    .b_text h1 {
+    font-size: 35px;
+    margin-right: 203px;
+}
+.b_text p {
+   font-size: 16px;
+    margin-right: 217px;
+}
+.b_text {
+    margin-top: 40px;
+}
+   /*BANNER END*/
+   /*ABOUT US START*/
+    .a_single h4 {
+    left: 34px;
+    bottom: 40px;
+    font-size: 20px;
+}
+.a_single {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.a_text p {
+    margin-right: 0;
+    }
+   /*ABOUT US END*/
+   /*LIMIT START*/
+   .limit {
+    margin-top: 70px;
+}
+.l_text ul li {
+    padding-right: 0;
+    text-align: center;
+    margin: 0 50px;
+    font-size: 30px;
+}
+   .l_img {
+    text-align: center;
+}
+.p-1 {
+    text-align: center;
+    margin-right: 0;
+}
+.p-2{
+  margin-right: 0;
+}
+.l_text h1 {
+  font-size: 35px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+   /*LIMIT END*/
+   /*FOOTER START*/
+ .f_1 {
+    text-align: center;
+}
+.f_p {
+    margin-right: 0;
+    text-align: center;
+}
+.f_2 {
+    text-align: center;
+}
+.f_3 {
+    text-align: center;
+}
+.f_4 {
+    text-align: center;
+}
+.f_4 p {
+    margin-right: 0;
+    }
+    .mb {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+ /*FOOTER END*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+     /*HEADER START*/
+      .b {
+    text-align: right;
+}
+      .menu ul li a{
+        text-align: right;
+      }
+      .b {
+    text-align: right;
+    margin-top: 10px;
+}
+     /*HEADER END*/
+
+     /*BANNER START*/
+     .b_text h1 {
+    margin-right: 317px;
+}
+.b_text p {
+    margin-right: 360px;
+}
+.b_text {
+    margin-top: 47px;
+}
+
+     /*BANNER END*/
+     /*ABOUT US START*/
+      .a_single {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.a_text p {
+    margin-right: 0;
+  }
+.a_single h4 {
+    left: 18px;
+    bottom: 40px;
+    font-size: 20px;
+}
+     /*ABOUT US END*/
+      /*LIMIT START*/
+   .limit {
+    margin-top: 70px;
+}
+.l_text ul li {
+    padding-right: 0;
+    text-align: center;
+    margin: 0 50px;
+    font-size: 30px;
+}
+   .l_img {
+    text-align: center;
+}
+.p-1 {
+    text-align: center;
+    margin-right: 0;
+}
+.p-2{
+  margin-right: 0;
+}
+.l_text h1 {
+  font-size: 37px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+/*LIMIT END*/
+/*SERVICE START*/
+.s_single {
+  text-align: center;
+}
+/*SERVICE END*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     /*BANNER START*/
+     .b_text {
+margin-top: 110px;
+  }
+
+.b_text p {
+    margin-top: 0;
+}
+
+.b_text h1 {
+   font-size: 32px;
+    }
+     /*BANNER END*/
+
+     /*ABOUT US start*/
+      .a_single {
+   text-align: center;
+}
+.a_single h4 {
+    left: 38px;
+}
+
+.a_text p {
+   margin-right: 0;
+  }
+    /*ABOUT US end*/
+    /*LIMIT START*/
+    .p-2 {
+    margin-right: 0;
+    
+}
+.p-1{
+  margin-right: 0;
+}
+.l_text ul li {
+    padding-right: 0;
+    margin: 0 50px;
+}
+.l_text h1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+    /*LIMIT END*/
+    /*SERVICE START*/
+    .s_h1 {
+    font-size: 32px;
+    margin-bottom: 70px;
+}
+    /*SERVICE END*/
+}
+
+  /*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+    /*LIMIT START*/
+    .p-2 {
+    margin-right: 0;
+    
+}
+.p-1{
+  margin-right: 0;
+}
+.l_text ul li {
+    padding-right: 0;
+    margin: 0 50px;
+}
+.l_text h1 {
+    /*margin-top: 25px;*/
+    margin-bottom: 25px;
+}
+    /*LIMIT END*/
+    /*SERVICE START*/
+    .s_h1 {
+    font-size: 39px;
+    margin-bottom: 80px;
+}
+    /*SERVICE END*/
+}
+
+ /*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
